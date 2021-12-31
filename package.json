@@ -3,7 +3,7 @@
     "version"      : "0.0.2",
     "description"  : "MCP23017 controller",
     "dependencies" : {
-		"node-mcp23017":"0.0.5",
+		"node-mcp23017":"0.0.7",
 	    	"i2c":"0.2.5",
 	    	"i2c-bus":"~5.2.1"
     },
